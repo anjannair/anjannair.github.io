@@ -42,20 +42,6 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 197 Contributions in the Year 2020
- > 
-> 📦 0 Bytes Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 11 Public Repositories
- > 
-> 🔑 0 Private Repository 
- > 
-**I'm an Early 🐤** 
-
 ```text
 🌞 Morning    20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.25% 
 🌆 Daytime    150 commits    █████████████░░░░░░░░░░░░   54.35% 
