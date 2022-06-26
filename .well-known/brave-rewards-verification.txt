@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: anjannair.xyz
-Token: 79f364ea0a5531c503c342fae9071402a9fcc13bb01e51650776b554bc8a6ff3
