@@ -1,3 +1,4 @@
 To-Do
-[] Dark Mode
-[] Whatsapp, Discord etc embed beautify
+
+- [ ] Dark Mode
+- [ ] Whatsapp, Discord etc embed beautify
