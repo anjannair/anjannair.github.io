@@ -85,7 +85,7 @@
   height: 60px;
   bottom: 40px;
   right: 40px;
-  background-color: #bd5d38;
+  background-color: #23a6d5;
   color: #FFF;
   border-radius: 50px;
   text-align: center;
@@ -93,7 +93,23 @@
 
 .my-float {
   margin-top: 22px;
+  background-color: #23a6d5;
 }
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
 
 /* Image border */
 
@@ -272,7 +288,7 @@ a {
 }
 
 a:hover {
-  color: #974a2d;
+  color: #343a40;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -3209,8 +3225,8 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #000;
-  background-color: #bd5d38;
-  border-color: #bd5d38;
+  background-color: #23a6d5;
+  border-color: #23a6d5;
 }
 
 .btn-primary:hover {
@@ -8378,7 +8394,7 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
+  color: #23a6d5 !important;
 }
 
 .text-secondary {
